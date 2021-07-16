@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uri Online Judge - ex 1080", "Uri Online Judge - ex 1080.csproj", "{C6BBD947-FD7E-4D15-9DA8-225D050FE729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6BBD947-FD7E-4D15-9DA8-225D050FE729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BBD947-FD7E-4D15-9DA8-225D050FE729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BBD947-FD7E-4D15-9DA8-225D050FE729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BBD947-FD7E-4D15-9DA8-225D050FE729}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D05DD344-CFB9-432A-B277-61746006D863}
+	EndGlobalSection
+EndGlobal

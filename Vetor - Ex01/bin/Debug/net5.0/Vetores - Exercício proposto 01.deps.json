@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Vetores - Exercício proposto 01/1.0.0": {
+        "runtime": {
+          "Vetores - Exercício proposto 01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vetores - Exercício proposto 01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

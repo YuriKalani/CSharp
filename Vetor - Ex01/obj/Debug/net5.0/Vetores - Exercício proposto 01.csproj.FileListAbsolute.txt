@@ -1,0 +1,16 @@
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\bin\Debug\net5.0\Vetores - Exercício proposto 01.exe
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\bin\Debug\net5.0\Vetores - Exercício proposto 01.deps.json
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\bin\Debug\net5.0\Vetores - Exercício proposto 01.runtimeconfig.json
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\bin\Debug\net5.0\Vetores - Exercício proposto 01.runtimeconfig.dev.json
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\bin\Debug\net5.0\Vetores - Exercício proposto 01.dll
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\bin\Debug\net5.0\ref\Vetores - Exercício proposto 01.dll
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\bin\Debug\net5.0\Vetores - Exercício proposto 01.pdb
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\obj\Debug\net5.0\Vetores - Exercício proposto 01.csproj.AssemblyReference.cache
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\obj\Debug\net5.0\Vetores - Exercício proposto 01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\obj\Debug\net5.0\Vetores - Exercício proposto 01.AssemblyInfoInputs.cache
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\obj\Debug\net5.0\Vetores - Exercício proposto 01.AssemblyInfo.cs
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\obj\Debug\net5.0\Vetores - Exercício proposto 01.csproj.CoreCompileInputs.cache
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\obj\Debug\net5.0\Vetores - Exercício proposto 01.dll
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\obj\Debug\net5.0\ref\Vetores - Exercício proposto 01.dll
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\obj\Debug\net5.0\Vetores - Exercício proposto 01.pdb
+E:\Projetos\Programação\C#\Vetores - Exercício proposto 01\obj\Debug\net5.0\Vetores - Exercício proposto 01.genruntimeconfig.cache

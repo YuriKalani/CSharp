@@ -1,0 +1,16 @@
+E:\Programação\C#\Uri Online udge - ex1074\obj\Debug\net5.0\Uri Online udge - ex1074.csprojAssemblyReference.cache
+E:\Programação\C#\Uri Online udge - ex1074\obj\Debug\net5.0\Uri Online udge - ex1074.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\C#\Uri Online udge - ex1074\obj\Debug\net5.0\Uri Online udge - ex1074.AssemblyInfoInputs.cache
+E:\Programação\C#\Uri Online udge - ex1074\obj\Debug\net5.0\Uri Online udge - ex1074.AssemblyInfo.cs
+E:\Programação\C#\Uri Online udge - ex1074\obj\Debug\net5.0\Uri Online udge - ex1074.csproj.CoreCompileInputs.cache
+E:\Programação\C#\Uri Online udge - ex1074\bin\Debug\net5.0\Uri Online udge - ex1074.exe
+E:\Programação\C#\Uri Online udge - ex1074\bin\Debug\net5.0\Uri Online udge - ex1074.deps.json
+E:\Programação\C#\Uri Online udge - ex1074\bin\Debug\net5.0\Uri Online udge - ex1074.runtimeconfig.json
+E:\Programação\C#\Uri Online udge - ex1074\bin\Debug\net5.0\Uri Online udge - ex1074.runtimeconfig.dev.json
+E:\Programação\C#\Uri Online udge - ex1074\bin\Debug\net5.0\Uri Online udge - ex1074.dll
+E:\Programação\C#\Uri Online udge - ex1074\bin\Debug\net5.0\ref\Uri Online udge - ex1074.dll
+E:\Programação\C#\Uri Online udge - ex1074\bin\Debug\net5.0\Uri Online udge - ex1074.pdb
+E:\Programação\C#\Uri Online udge - ex1074\obj\Debug\net5.0\Uri Online udge - ex1074.dll
+E:\Programação\C#\Uri Online udge - ex1074\obj\Debug\net5.0\ref\Uri Online udge - ex1074.dll
+E:\Programação\C#\Uri Online udge - ex1074\obj\Debug\net5.0\Uri Online udge - ex1074.pdb
+E:\Programação\C#\Uri Online udge - ex1074\obj\Debug\net5.0\Uri Online udge - ex1074.genruntimeconfig.cache

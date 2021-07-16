@@ -1,0 +1,16 @@
+E:\Programação\C#\URI Online Judge - 1145\bin\Debug\net5.0\URI Online Judge - 1145.exe
+E:\Programação\C#\URI Online Judge - 1145\bin\Debug\net5.0\URI Online Judge - 1145.deps.json
+E:\Programação\C#\URI Online Judge - 1145\bin\Debug\net5.0\URI Online Judge - 1145.runtimeconfig.json
+E:\Programação\C#\URI Online Judge - 1145\bin\Debug\net5.0\URI Online Judge - 1145.runtimeconfig.dev.json
+E:\Programação\C#\URI Online Judge - 1145\bin\Debug\net5.0\URI Online Judge - 1145.dll
+E:\Programação\C#\URI Online Judge - 1145\bin\Debug\net5.0\ref\URI Online Judge - 1145.dll
+E:\Programação\C#\URI Online Judge - 1145\bin\Debug\net5.0\URI Online Judge - 1145.pdb
+E:\Programação\C#\URI Online Judge - 1145\obj\Debug\net5.0\URI Online Judge - 1145.csprojAssemblyReference.cache
+E:\Programação\C#\URI Online Judge - 1145\obj\Debug\net5.0\URI Online Judge - 1145.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\C#\URI Online Judge - 1145\obj\Debug\net5.0\URI Online Judge - 1145.AssemblyInfoInputs.cache
+E:\Programação\C#\URI Online Judge - 1145\obj\Debug\net5.0\URI Online Judge - 1145.AssemblyInfo.cs
+E:\Programação\C#\URI Online Judge - 1145\obj\Debug\net5.0\URI Online Judge - 1145.csproj.CoreCompileInputs.cache
+E:\Programação\C#\URI Online Judge - 1145\obj\Debug\net5.0\URI Online Judge - 1145.dll
+E:\Programação\C#\URI Online Judge - 1145\obj\Debug\net5.0\ref\URI Online Judge - 1145.dll
+E:\Programação\C#\URI Online Judge - 1145\obj\Debug\net5.0\URI Online Judge - 1145.pdb
+E:\Programação\C#\URI Online Judge - 1145\obj\Debug\net5.0\URI Online Judge - 1145.genruntimeconfig.cache

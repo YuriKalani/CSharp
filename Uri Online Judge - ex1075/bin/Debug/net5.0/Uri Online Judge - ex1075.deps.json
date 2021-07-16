@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Uri Online Judge - ex1075/1.0.0": {
+        "runtime": {
+          "Uri Online Judge - ex1075.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uri Online Judge - ex1075/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

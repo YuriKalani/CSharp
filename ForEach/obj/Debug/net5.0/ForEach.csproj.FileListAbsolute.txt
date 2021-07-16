@@ -1,0 +1,16 @@
+E:\Projetos\Programação\C#\ForEach\bin\Debug\net5.0\ForEach.exe
+E:\Projetos\Programação\C#\ForEach\bin\Debug\net5.0\ForEach.deps.json
+E:\Projetos\Programação\C#\ForEach\bin\Debug\net5.0\ForEach.runtimeconfig.json
+E:\Projetos\Programação\C#\ForEach\bin\Debug\net5.0\ForEach.runtimeconfig.dev.json
+E:\Projetos\Programação\C#\ForEach\bin\Debug\net5.0\ForEach.dll
+E:\Projetos\Programação\C#\ForEach\bin\Debug\net5.0\ref\ForEach.dll
+E:\Projetos\Programação\C#\ForEach\bin\Debug\net5.0\ForEach.pdb
+E:\Projetos\Programação\C#\ForEach\obj\Debug\net5.0\ForEach.csproj.AssemblyReference.cache
+E:\Projetos\Programação\C#\ForEach\obj\Debug\net5.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Programação\C#\ForEach\obj\Debug\net5.0\ForEach.AssemblyInfoInputs.cache
+E:\Projetos\Programação\C#\ForEach\obj\Debug\net5.0\ForEach.AssemblyInfo.cs
+E:\Projetos\Programação\C#\ForEach\obj\Debug\net5.0\ForEach.csproj.CoreCompileInputs.cache
+E:\Projetos\Programação\C#\ForEach\obj\Debug\net5.0\ForEach.dll
+E:\Projetos\Programação\C#\ForEach\obj\Debug\net5.0\ref\ForEach.dll
+E:\Projetos\Programação\C#\ForEach\obj\Debug\net5.0\ForEach.pdb
+E:\Projetos\Programação\C#\ForEach\obj\Debug\net5.0\ForEach.genruntimeconfig.cache

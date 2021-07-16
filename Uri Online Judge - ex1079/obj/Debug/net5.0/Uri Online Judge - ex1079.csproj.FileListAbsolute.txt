@@ -1,0 +1,16 @@
+E:\Programação\C#\Uri Online Judge - ex1079\bin\Debug\net5.0\Uri Online Judge - ex1079.exe
+E:\Programação\C#\Uri Online Judge - ex1079\bin\Debug\net5.0\Uri Online Judge - ex1079.deps.json
+E:\Programação\C#\Uri Online Judge - ex1079\bin\Debug\net5.0\Uri Online Judge - ex1079.runtimeconfig.json
+E:\Programação\C#\Uri Online Judge - ex1079\bin\Debug\net5.0\Uri Online Judge - ex1079.runtimeconfig.dev.json
+E:\Programação\C#\Uri Online Judge - ex1079\bin\Debug\net5.0\Uri Online Judge - ex1079.dll
+E:\Programação\C#\Uri Online Judge - ex1079\bin\Debug\net5.0\ref\Uri Online Judge - ex1079.dll
+E:\Programação\C#\Uri Online Judge - ex1079\bin\Debug\net5.0\Uri Online Judge - ex1079.pdb
+E:\Programação\C#\Uri Online Judge - ex1079\obj\Debug\net5.0\Uri Online Judge - ex1079.csprojAssemblyReference.cache
+E:\Programação\C#\Uri Online Judge - ex1079\obj\Debug\net5.0\Uri Online Judge - ex1079.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\C#\Uri Online Judge - ex1079\obj\Debug\net5.0\Uri Online Judge - ex1079.AssemblyInfoInputs.cache
+E:\Programação\C#\Uri Online Judge - ex1079\obj\Debug\net5.0\Uri Online Judge - ex1079.AssemblyInfo.cs
+E:\Programação\C#\Uri Online Judge - ex1079\obj\Debug\net5.0\Uri Online Judge - ex1079.csproj.CoreCompileInputs.cache
+E:\Programação\C#\Uri Online Judge - ex1079\obj\Debug\net5.0\Uri Online Judge - ex1079.dll
+E:\Programação\C#\Uri Online Judge - ex1079\obj\Debug\net5.0\ref\Uri Online Judge - ex1079.dll
+E:\Programação\C#\Uri Online Judge - ex1079\obj\Debug\net5.0\Uri Online Judge - ex1079.pdb
+E:\Programação\C#\Uri Online Judge - ex1079\obj\Debug\net5.0\Uri Online Judge - ex1079.genruntimeconfig.cache
